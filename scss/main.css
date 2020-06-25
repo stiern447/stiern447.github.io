@@ -259,6 +259,10 @@ body {
   background-color: #36438D;
 }
 
+.container .main .post-meta .dom {
+  background-color: green;
+}
+
 .container .main .post-description {
   margin: 1.6rem 0;
   color: #444;
